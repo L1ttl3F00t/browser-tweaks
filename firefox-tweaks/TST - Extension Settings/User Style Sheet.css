@@ -9,7 +9,6 @@
 
 /* Hide .twisty and adjust margins so favicons have 7px on left. */
 tab-item .twisty {
-    visibility: hidden;
     margin-left: -12px;
 }
 
